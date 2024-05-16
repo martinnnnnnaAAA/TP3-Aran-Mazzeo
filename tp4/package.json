@@ -2,7 +2,7 @@
   "name": "tp4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "TP4-Aran-Mazzeo",
+  "homepage": "TP3-Aran-Mazzeo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
